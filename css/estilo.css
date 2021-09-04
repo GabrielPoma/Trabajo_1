@@ -1,0 +1,44 @@
+body{
+
+background-image:url("../imagenes/fondo.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+  color:#5C6A92;
+  background-color:#97C0BF;
+  text-align:center;
+  font-size:500%;
+  text-decoration-line:underline;
+
+}
+
+p{
+  color:#5C6A92;
+  font-size:150%;
+  text-align:justify;
+}
+
+img{
+
+  width: 35%;
+  height: 400px;
+}
+
+h2{
+  color:#5C6A92;
+  text-decoration-line:underline;
+  font-size:300%;
+}
+h3{
+  color:#5C6A92;
+  font-size:200%;
+  text-decoration-line:underline;
+
+}
+
+ul, ol{
+   color:#5C6A92;
+   font-size: 150%;
+}
